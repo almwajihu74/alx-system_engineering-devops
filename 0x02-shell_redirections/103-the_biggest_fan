@@ -1,0 +1,2 @@
+#!/bin/bash
+tail -n +2 l cut -f 1 l sort l unique -c l sor
